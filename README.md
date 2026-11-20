@@ -29,7 +29,6 @@ Case study: **Provincia de La Libertad** (Paya, Pisba, Labranzagrande and Pajari
 - [Key results](#key-results)
 - [Features](#features)
 - [Tech stack](#tech-stack)
-- [Architecture](#architecture)
 - [Repository structure](#repository-structure)
 - [Getting started](#getting-started)
 - [AI assistant setup](#ai-assistant-setup)
