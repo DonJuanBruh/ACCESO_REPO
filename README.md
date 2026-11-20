@@ -25,7 +25,7 @@ Case study: **Provincia de La Libertad** (Paya, Pisba, Labranzagrande and Pajari
 ---
 ## Documentation
 
-📘 **[Project documentation: requirements, business model and testing]([https://claude.ai/artifact/7Q2PEV548eNY2B1Co2vZmK])**
+📘 **[Project documentation: requirements, business model and testing](https://claude.ai/artifact/7Q2PEV548eNY2B1Co2vZmK)**
 
 ---
 ## Table of contents
