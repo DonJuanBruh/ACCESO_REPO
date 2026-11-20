@@ -23,7 +23,11 @@ Case study: **Provincia de La Libertad** (Paya, Pisba, Labranzagrande and Pajari
 > 📄 Full paper (Spanish): [`paper/Paper_ACCESO_DDYA.pdf`](paper/Paper_ACCESO_DDYA.pdf)
 
 ---
+## Documentation
 
+📘 **[Project documentation: requirements, business model and testing]([https://claude.ai/artifact/7Q2PEV548eNY2B1Co2vZmK])**
+
+---
 ## Table of contents
 
 - [Key results](#key-results)
