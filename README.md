@@ -282,10 +282,10 @@ On the cloud the assistant uses the cloud model or the guided mode, because LM S
 
 | Name | Role | GitHub |
 |---|---|---|
-| _Author 1_ | _Role_ | [@username](https://github.com/username) |
-| _Author 2_ | _Role_ | [@username](https://github.com/username) |
-| _Author 3_ | _Role_ | [@username](https://github.com/username) |
-| _Author 4_ | _Role_ | [@username](https://github.com/username) |
+| _Juan José Mican Rodríguez_ | _Data Scientist / ML Engineer_ | [@donjuanbruh](https://github.com/DonJuanBruh) |
+| _Thaliana Rocío Sierra_ | _Data Analyst_ | [@username](https://github.com/username) |
+| _Mariana Shenoa Castiblanco González_ | _Research & QA Lead_ | [@username](https://github.com/username) |
+| _Emmanuele Alejandro Gil León_ | _Project Manager_ | [@username](https://github.com/username) |
 
 Course: Diseño de Datos y Algoritmos (DDYA), Escuela Colombiana de Ingeniería Julio Garavito.
 
