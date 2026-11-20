@@ -139,29 +139,6 @@ Browse and download the settlements, roads and synthetic SIMMA landslide invento
 
 ---
 
-## Architecture
-
-```mermaid
-flowchart TB
-    UI["Presentation · Streamlit<br/>2D map · 3D relief · forms · reports · chat"]
-    R["Routing engine<br/>Dijkstra · Tobler · bridges (RF05–06)"]
-    K["Location engine<br/>incremental k-center (RF07–09)"]
-    V["Validation &amp; KPIs<br/>(RNF05–07)"]
-    AI["Terrain AI<br/>DEM + SIMMA → Random Forest (RF13)"]
-    AS["AI assistant<br/>LLM with tools over the results"]
-    D["Local data<br/>communities · roads · scenarios · model cache"]
-    UI --> R & K & V
-    UI --> AS
-    AS -->|"tool calls"| K & R & AI
-    K --> R
-    K --> AI
-    R & K & AI & V --> D
-```
-
-The assistant **queries the engines and never computes on its own**, so it cannot make up figures.
-
----
-
 ## Repository structure
 
 ```text
